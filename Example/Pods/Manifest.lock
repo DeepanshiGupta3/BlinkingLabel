@@ -1,0 +1,14 @@
+PODS:
+  - BlinkingLabel (0.1.0)
+
+DEPENDENCIES:
+  - BlinkingLabel (from `../`)
+
+EXTERNAL SOURCES:
+  BlinkingLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BlinkingLabel: 83c3470e7d3804505d3d7fe25747b099f9adbb72
+
+COCOAPODS: 0.39.0
