@@ -7,6 +7,7 @@
 //
 
 @import UIKit;
+@import BlinkingLabel;
 
 @interface BlinkingLabelViewController : UIViewController
 
